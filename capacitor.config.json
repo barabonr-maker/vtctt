@@ -1,5 +1,8 @@
 {
   "appId": "com.kaskaanet.messenger",
   "appName": "Kaskaanet",
-  "webDir": "www"
+  "webDir": "www",
+  "server": {
+    "cleartext": true
+  }
 }
